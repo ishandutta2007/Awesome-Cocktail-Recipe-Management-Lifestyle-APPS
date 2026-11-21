@@ -30,6 +30,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saashosted-platforms)
 
 - [Open-Source GitHub Projects](#open-source-github-projects)
@@ -42,67 +43,24 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 
+## Sector Overview & Market Dynamics
+
+The global digital recipe and culinary lifestyle applications market is estimated at approximately $6B to $7B (growing at ~8.5% to 10.5% CAGR), with the connected smart home bar and digital mixology segment projected to exceed $1.4B over the next decade as home entertainment and craft cocktail culture expand. The cocktail software sector is **highly fragmented** rather than winner-take-all; low technical barriers to entry and non-copyrightable public-domain classic recipes allow numerous independent indie developers, boutique design studios, and hospitality brands to co-exist, competing primarily through curated flavor databases, UI/UX aesthetics, and intelligent home-bar inventory matching algorithms.
+
 ## SaaS/Hosted Platforms
 
-
-
-- **[Difford's Guide](https://diffordsguide.com)**  
-
-  Comprehensive online cocktail encyclopedia and home-bar calculator matching thousands of curated classic and modern drink recipes against your stocked bottles.
-
-
-
-- **[Cocktail Party App](https://cocktailpartyapp.com)**  
-
-  Illustrated mobile and web cocktail guide focused on "make-with-what-you-have" home bar inventory filtering, step-by-step instructions, and zero ads.
-
-
-
-- **[Mixel](https://mixelcocktails.com)**  
-
-  Pixel-art mobile cocktail recipe manager featuring a massive curated recipe library, custom recipe builder, ingredient substitution suggestions, and shared bar sync.
-
-
-
-- **[Highball (Studio Neat)](https://studioneat.com)**  
-
-  Design-forward iOS cocktail recipe organizer enabling users to create, collect, and share minimalist visual recipe cards via embeddable metadata.
-
-
-
-- **[Cocktail Flow](https://cocktailflow.com)**  
-
-  Cross-platform cocktail and mixed-drink app offering categorized bar stock management, shopping lists, seasonal collections, and step-by-step preparation guides.
-
-
-
-- **[Bartender's Choice (Attaboy / Sam Ross)](https://apple.com)**  
-
-  Curated mobile cocktail app created by renowned New York craft bartenders featuring flavor-profile filtering, spirit selection, and bar-tested ratios.
-
-
-
-- **[Total Tiki (Beachbum Berry / Mixology Tech)](https://beachbumberry.com)**  
-
-  Specialized tiki and tropical cocktail database app featuring historical drink origins, garnish guides, and ingredient-inventory matching.
-
-
-
-- **[Liquor.com](https://liquor.com)**  
-
-  Digital spirits, bartending, and cocktail publication providing editor-tested recipes, technique tutorials, and home bar equipment guides.
-
-
-
-- **[Anvil Bar & Refuge (Houston) / Curated Bar Menus](https://anvilhouston.com)**  
-
-  Iconic craft cocktail institution and inspiration behind modern classic cocktail lists and home-bar reference menus.
-
-
-
-- **[Top Shelf Cocktail Lounge & Bar Apps](https://apple.com)**  
-
-  Interactive mobile cocktail lounge and home bar catalog apps for tracking liquor cabinets, tasting notes, and party drink menus.
+| Company / Product | Revenue / Valuation (Est. Size) | Pricing | Free Tier Limit | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Liquor.com](https://liquor.com)** | Parent (Dotdash Meredith / People Inc. under IAC): **~$1.78B annual revenue**; IAC market cap **~$3.2B** | Free ad-supported web portal / Editorial | Unlimited free access to all online recipe guides, bartending techniques, and reviews (monetized via programmatic ads and affiliate commerce) | Digital spirits, bartending, and cocktail publication providing editor-tested recipes, technique tutorials, and home bar equipment guides. |
+| **[Highball](https://studioneat.com)** | Studio Neat (Developer): **~$6.3M annual revenue** (bootstrapped design studio) | Free download; optional in-app tips / physical barware store | 100% free with no recipe limits, no subscriptions, and full drink card generation/sharing capabilities | Design-forward iOS cocktail recipe organizer enabling users to create, collect, and share minimalist visual recipe cards via embeddable metadata. |
+| **[Anvil Bar & Refuge](https://anvilhouston.com)** | Renowned craft bar hospitality group (Bobby Heugel / Thoroughfare): **~$2M–$4M annual revenue** | Web menu access is Free; bottled to-go cocktails start at **$35.00** | Unlimited free digital browsing of the iconic "List of 100 Classics" and seasonal menus; physical cocktails $13–$16+ | Iconic craft cocktail institution and inspiration behind modern classic cocktail lists and home-bar reference menus. |
+| **[Cocktail Flow](https://cocktailflow.com)** | Distinction Kft. (Original dev): **~£1.1M (~$1.4M) historical turnover** | Starts at **$4.99 / month** (or discounted annual/multi-month packages) | Free base recipe library & inventory cabinet access; locked: 400+ premium cocktails, personal drink notes, and custom recipe creation | Cross-platform cocktail and mixed-drink app offering categorized bar stock management, shopping lists, seasonal collections, and step-by-step preparation guides. |
+| **[Difford's Guide](https://diffordsguide.com)** | Odd Firm of Sin Ltd (Simon Difford): **~£500K–£1M annual turnover** (Independent private UK publisher) | Starts at **£3.50 / month** (billed annually at £42/year, or £5.00/mo billed monthly); includes 7-day free trial | Free Community Member plan with email registration: unlimited recipe reading and weekly newsletter; advanced multi-ingredient bottle filtering & ad-free UI require Premium | Comprehensive online cocktail encyclopedia and home-bar calculator matching thousands of curated classic and modern drink recipes against your stocked bottles. |
+| **[Mixel](https://mixelcocktails.com)** | Independent niche mobile app developer: **~$200K–$500K estimated annual revenue** | Starts at **$2.99 / month** (or ~$11.99–$22.99 / year) | Free tier includes 100+ classic IBA recipes, full 600+ ingredient inventory tracker, and 5 AI chat queries/month; full 2,600+ recipes and cloud sync require Premium | Pixel-art mobile cocktail recipe manager featuring a massive curated recipe library, custom recipe builder, ingredient substitution suggestions, and shared bar sync. |
+| **[Bartender's Choice](https://apple.com)** | Fancy Free LLC (Attaboy / Sam Ross): **~$100K–$300K estimated app sales** | **$9.99** one-time purchase on iOS / **$8.99** on Android | No free tier or trial; requires upfront purchase to download and access the 1,500+ curated recipes | Curated mobile cocktail app created by renowned New York craft bartenders featuring flavor-profile filtering, spirit selection, and bar-tested ratios. |
+| **[Total Tiki](https://beachbumberry.com)** | Martin Doudoroff LLC / MixologyTech: **~$50K–$200K estimated annual revenue** | iOS App: **$9.99** one-time purchase; Web (Total Tiki Online): **$18.00 / quarter** (~$6/month) | Web tier includes a free demo mode to preview interface; clicking individual recipes requires subscription. iOS app has no free version (includes free iCloud device sync) | Specialized tiki and tropical cocktail database app featuring historical drink origins, garnish guides, and ingredient-inventory matching. |
+| **[Cocktail Party App](https://cocktailpartyapp.com)** | Independent boutique app developer: **~$50K–$150K estimated annual revenue** | **$3.99** one-time purchase on iOS and Android | No free tier or free trial; upfront paid app with zero recurring subscriptions and lifetime recipe updates | Illustrated mobile and web cocktail guide focused on "make-with-what-you-have" home bar inventory filtering, step-by-step instructions, and zero ads. |
+| **[Top Shelf Cocktail Lounge & Bar Apps](https://apple.com)** | Alexandru Budure / Independent indie dev: **<$50K estimated annual revenue** | Free download; **$4.99** one-time in-app purchase for full pack | Free tier provides access to the first 10 bars (110 drink levels) with no ads or time limits; remaining 6 bars require $4.99 unlock | Interactive mobile cocktail lounge and home bar catalog apps for tracking liquor cabinets, tasting notes, and party drink menus. |
 
 
 
