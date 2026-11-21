@@ -1,53 +1,52 @@
-# Awesome-Cocktail-Recipe-Management-Lifestyle-APPS
+# 🍸 Awesome Cocktail & Recipe Management / Lifestyle Apps Ecosystem 🍹
 
-## Top Cocktail & Recipe Management / Lifestyle Apps Ecosystem
+<p align="center">
+  <img src="./assets/banner.svg" alt="Awesome Cocktail & Recipe Management Banner" width="100%" />
+</p>
 
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Cocktail-Recipe-Management-Lifestyle-APPS/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cocktail-Recipe-Management-Lifestyle-APPS?style=social" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Cocktail-Recipe-Management-Lifestyle-APPS/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Cocktail-Recipe-Management-Lifestyle-APPS?style=social" alt="GitHub Forks"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Cocktail-Recipe-Management-Lifestyle-APPS/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Cocktail-Recipe-Management-Lifestyle-APPS" alt="License"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
+---
 
-**Curated List of SaaS/Hosted Platforms & Open-Source GitHub Projects**  
+## 🌟 Top Cocktail & Recipe Management / Lifestyle Apps Ecosystem
 
-*Focused on Cocktail Recipe Managers, Home Bar Inventory Trackers, Mixology Databases & Self-Hosted Culinary/Drink Platforms*  
+> **A definitive, SEO-optimized curated directory of production SaaS platforms, home bar inventory trackers, self-hosted mixology servers, Raspberry Pi automated drink dispensers, and open cocktail recipe databases.**
 
-**Last updated: November 2026**
+*Track, scale, filter, and craft cocktails with modern home-bar software, dynamic serving algorithms, and open-source stacks.*
 
+📅 **Last updated: November 2026**
 
+---
 
-This repository tracks notable **SaaS/hosted platforms** and **open-source projects** for **Cocktail & Recipe Management / Lifestyle Apps**. These tools organize, search, scale, share, and match cocktail and culinary recipes against your home bar inventory using ingredient-filtering engines, interactive recipe cards, self-hosted bar dashboards, and open cocktail databases.
+## 📑 Table of Contents
 
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ SaaS & Hosted Platforms](#️-saas--hosted-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🛠️ Architecture & System Frameworks](#️-architecture--system-frameworks)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Share](#-support--share)
+- [📈 Star History](#-star-history)
+- [⚖️ Disclaimer](#️-disclaimer)
 
+---
 
-**Examples** include Difford's Guide, Cocktail Party App, Total Cocktail (Total Tiki), Bartender's Choice, Mixel, Highball, Liquor.com, Cocktail Flow, Anvil Bar, Top Shelf Cocktail Lounge, and gauthierpiarrette/highball (the category leaders and popular runtimes). 
+## 📊 Sector Overview & Market Dynamics
 
+The global digital recipe and culinary lifestyle applications market is estimated at approximately **$6B to $7B** (growing at **~8.5% to 10.5% CAGR**), with the connected smart home bar and digital mixology segment projected to exceed **$1.4B** over the next decade as home entertainment, smart home integration, and craft cocktail culture expand.
 
+The cocktail software sector is **highly fragmented** rather than winner-take-all. Low technical barriers to entry and non-copyrightable public-domain classic recipes allow numerous independent indie developers, boutique design studios, and hospitality brands to co-exist. Competition centers primarily on curated craft flavor databases, UI/UX aesthetics, and intelligent home-bar inventory matching algorithms ("what can I make with my stocked bottles").
 
-**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosted home bar & cocktail managers (`Bar Assistant`, `gauthierpiarrette/highball`, `CocktailBerry`, `CocktailPi`), general self-hosted recipe managers with drink/bar support (`Mealie`, `Tandoor Recipes`), and open cocktail datasets/APIs (`TheCocktailDB`, `OpenCocktailDB`) — ideal for home bartenders, mixology enthusiasts, hospitality technologists, and self-hosting hobbyists.
+---
 
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saashosted-platforms)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Support & Share](#support--share)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## Sector Overview & Market Dynamics
-
-The global digital recipe and culinary lifestyle applications market is estimated at approximately $6B to $7B (growing at ~8.5% to 10.5% CAGR), with the connected smart home bar and digital mixology segment projected to exceed $1.4B over the next decade as home entertainment and craft cocktail culture expand. The cocktail software sector is **highly fragmented** rather than winner-take-all; low technical barriers to entry and non-copyrightable public-domain classic recipes allow numerous independent indie developers, boutique design studios, and hospitality brands to co-exist, competing primarily through curated flavor databases, UI/UX aesthetics, and intelligent home-bar inventory matching algorithms.
-
-## SaaS/Hosted Platforms
+## ☁️ SaaS & Hosted Platforms
 
 | Company / Product | Revenue / Valuation (Est. Size) | Pricing | Free Tier Limit | Description |
 | :--- | :--- | :--- | :--- | :--- |
@@ -62,154 +61,126 @@ The global digital recipe and culinary lifestyle applications market is estimate
 | **[Cocktail Party App](https://cocktailpartyapp.com)** | Independent boutique app developer: **~$50K–$150K estimated annual revenue** | **$3.99** one-time purchase on iOS and Android | No free tier or free trial; upfront paid app with zero recurring subscriptions and lifetime recipe updates | Illustrated mobile and web cocktail guide focused on "make-with-what-you-have" home bar inventory filtering, step-by-step instructions, and zero ads. |
 | **[Top Shelf Cocktail Lounge & Bar Apps](https://apple.com)** | Alexandru Budure / Independent indie dev: **<$50K estimated annual revenue** | Free download; **$4.99** one-time in-app purchase for full pack | Free tier provides access to the first 10 bars (110 drink levels) with no ads or time limits; remaining 6 bars require $4.99 unlock | Interactive mobile cocktail lounge and home bar catalog apps for tracking liquor cabinets, tasting notes, and party drink menus. |
 
+---
 
+## 💻 Open-Source GitHub Projects
 
+*Ranked strictly in descending order by GitHub stargazers count. Star badges link directly to each repository's stargazers page.*
 
+1. **[Mealie](https://github.com/mealie-recipes/mealie)** [![Stars](https://img.shields.io/github/stars/mealie-recipes/mealie?style=social&color=white)](https://github.com/mealie-recipes/mealie/stargazers)  
+   Popular self-hosted recipe manager and meal/drink planner with one-click URL recipe scraping, automated ingredient parsing, shopping list generation, and Docker deployment.
 
-## Open-Source GitHub Projects
+2. **[Grocy](https://github.com/grocy/grocy)** [![Stars](https://img.shields.io/github/stars/grocy/grocy?style=social&color=white)](https://github.com/grocy/grocy/stargazers)  
+   Full-featured self-hosted ERP for groceries, household pantries, and home bar cellars—tracks bottle stock, opened dates, expiration tracking, and cocktail ingredient consumption.
 
+3. **[Tandoor Recipes](https://github.com/TandoorRecipes/recipes)** [![Stars](https://img.shields.io/github/stars/TandoorRecipes/recipes?style=social&color=white)](https://github.com/TandoorRecipes/recipes/stargazers)  
+   Comprehensive Django/Vue self-hosted recipe and mixology management system featuring dynamic batch serving scaling, pantry inventory tracking, and multi-user recipe sharing.
 
+4. **[KitchenOwl](https://github.com/TomBursch/kitchenowl)** [![Stars](https://img.shields.io/github/stars/TomBursch/kitchenowl?style=social&color=white)](https://github.com/TomBursch/kitchenowl/stargazers)  
+   Modern, elegant self-hosted smart grocery list, pantry/bar inventory tracker, and recipe companion application with native clients for iOS, Android, and Web.
 
-- **[gauthierpiarrette/highball](https://github.com)**  
+5. **[CookCLI / Cooklang](https://github.com/cooklang/cookcli)** [![Stars](https://img.shields.io/github/stars/cooklang/cookcli?style=social&color=white)](https://github.com/cooklang/cookcli/stargazers)  
+   Open-source markup language and local web server for plain-text cocktail and culinary recipe management with automatic ingredient measurement scaling and shopping list generation.
 
-  Open-source cocktail recipe management and home-bar web application inspired by Highball, built for organizing, filtering, and sharing clean drink recipe cards.
+6. **[Open Food Facts Server](https://github.com/openfoodfacts/openfoodfacts-server)** [![Stars](https://img.shields.io/github/stars/openfoodfacts/openfoodfacts-server?style=social&color=white)](https://github.com/openfoodfacts/openfoodfacts-server/stargazers)  
+   Collaborative, free, and open database server powering barcode scanning and nutritional/ingredient metadata across commercial spirits, syrups, mixers, and beverages.
 
+7. **[Bar Assistant](https://github.com/karlomikus/bar-assistant)** [![Stars](https://img.shields.io/github/stars/karlomikus/bar-assistant?style=social&color=white)](https://github.com/karlomikus/bar-assistant/stargazers)  
+   Flagship self-hosted open-source cocktail and home-bar management API server featuring bottle shelf tracking, shopping lists, unit conversion, and multi-user bar collections.
 
+8. **[Nextcloud Cookbook](https://github.com/nextcloud/cookbook)** [![Stars](https://img.shields.io/github/stars/nextcloud/cookbook?style=social&color=white)](https://github.com/nextcloud/cookbook/stargazers)  
+   Nextcloud-integrated open-source recipe and drink organizer fully compatible with `schema.org/Recipe` JSON-LD standards and Nextcloud user syncing.
 
-- **[Bar Assistant (`karlomikus/bar-assistant`)](https://github.com)**  
+9. **[Open Drinks](https://github.com/alfg/opendrinks)** [![Stars](https://img.shields.io/github/stars/alfg/opendrinks?style=social&color=white)](https://github.com/alfg/opendrinks/stargazers)  
+   Community-driven open-source cocktail and beverage catalog built with Markdown and Vue.js, featuring transparent recipe contributions, spirit filters, and custom drinks.
 
-  Flagship self-hosted open-source cocktail and home-bar management server featuring ingredient shelf tracking, shopping lists, metric/imperial unit conversion, and multi-user collections.
+10. **[CocktailBerry](https://github.com/AndreWohnsland/CocktailBerry)** [![Stars](https://img.shields.io/github/stars/AndreWohnsland/CocktailBerry?style=social&color=white)](https://github.com/AndreWohnsland/CocktailBerry/stargazers)  
+    Open-source Python and Qt/web dashboard application for Raspberry Pi automated cocktail dispenser machines and manual home bars with inventory monitoring and party stats.
 
+11. **[CocktailPi](https://github.com/alex9849/CocktailPi)** [![Stars](https://img.shields.io/github/stars/alex9849/CocktailPi?style=social&color=white)](https://github.com/alex9849/CocktailPi/stargazers)  
+    Self-hosted Java & Vue open-source cocktail maker and recipe management platform supporting peristaltic pump control, glass calibration, and real-time web UI order queuing.
 
+12. **[Vue Salt Rim](https://github.com/karlomikus/vue-salt-rim)** [![Stars](https://img.shields.io/github/stars/karlomikus/vue-salt-rim?style=social&color=white)](https://github.com/karlomikus/vue-salt-rim/stargazers)  
+    Modern open-source Vue.js web frontend interface for Bar Assistant, providing instant "what drinks can I make with my bottles" filtering, printable recipes, and mobile bar browsing.
 
-- **[Salt Rim (`karlomikus/salt-rim`)](https://github.com)**  
+13. **[Cocktails (balevine)](https://github.com/balevine/cocktails)** [![Stars](https://img.shields.io/github/stars/balevine/cocktails?style=social&color=white)](https://github.com/balevine/cocktails/stargazers)  
+    Curated open-source personal collection of craft cocktail recipes formatted in clean JSON with serving glass types, proportions, and preparation instructions.
 
-  Modern open-source Vue.js web frontend for Bar Assistant offering instant "what can I make" filtering, cocktail printing, custom glass/method tags, and mobile-friendly bar browsing.
+14. **[IBA Cocktails Dataset (teijo)](https://github.com/teijo/iba-cocktails)** [![Stars](https://img.shields.io/github/stars/teijo/iba-cocktails?style=social&color=white)](https://github.com/teijo/iba-cocktails/stargazers)  
+    Clean, structured open-source JSON dataset of official International Bartenders Association (IBA) cocktail recipes, ingredient quantities, preparation glassware, and garnishes.
 
+15. **[RecipeMD](https://github.com/RecipeMD/RecipeMD)** [![Stars](https://img.shields.io/github/stars/RecipeMD/RecipeMD?style=social&color=white)](https://github.com/RecipeMD/RecipeMD/stargazers)  
+    Lightweight open-source human-readable Markdown specification and CLI/web parser for storing portable, Git-versioned cocktail and culinary recipes in plain text files.
 
+16. **[Cocktail Search (snoack)](https://github.com/snoack/cocktail-search)** [![Stars](https://img.shields.io/github/stars/snoack/cocktail-search?style=social&color=white)](https://github.com/snoack/cocktail-search/stargazers)  
+    Faceted cocktail recipe search engine built with Python, Werkzeug, Scrapy, and Sphinx, matching ingredients against historical cocktail databases.
 
-- **[CocktailBerry (`AndreWohnsland/CocktailBerry`)](https://github.com)**  
+17. **[Mojito](https://github.com/hvsimon/Mojito)** [![Stars](https://img.shields.io/github/stars/hvsimon/Mojito?style=social&color=white)](https://github.com/hvsimon/Mojito/stargazers)  
+    Open-source Android mobile cocktail manual and mixology reference guide featuring curated recipes, drink photography, spirit profiles, and search filters.
 
-  Open-source Python and Qt/web dashboard application for Raspberry Pi automated cocktail machines and manual home bars with ingredient inventory and party statistics.
+18. **[IBA Cocktails (rasmusab)](https://github.com/rasmusab/iba-cocktails)** [![Stars](https://img.shields.io/github/stars/rasmusab/iba-cocktails?style=social&color=white)](https://github.com/rasmusab/iba-cocktails/stargazers)  
+    Parsed CSV and JSON dataset of official IBA cocktail recipes suitable for data science, algorithmic recipe matching, and mixology visualizations.
 
+19. **[NYT Bar Optimizer](https://github.com/jordanmeyer/nyt-bar-optimizer)** [![Stars](https://img.shields.io/github/stars/jordanmeyer/nyt-bar-optimizer?style=social&color=white)](https://github.com/jordanmeyer/nyt-bar-optimizer/stargazers)  
+    Mathematical bottle optimizer that evaluates your home bar inventory against New York Times Cooking cocktail recipes to recommend which bottles unlock the most drinks.
 
-
-- **[CocktailPi (`alex9849/CocktailPi`)](https://github.com)**  
-
-  Self-hosted open-source Java/Vue cocktail maker and recipe management platform supporting pump control, glass sizing, ingredient inventory, and web UI ordering.
-
-
-
-- **[Mealie (`mealie-recipes/mealie`)](https://github.com)**  
-
-  Popular self-hosted open-source recipe manager and meal/drink planner with one-click URL recipe scraping, ingredient parsing, shopping lists, and Docker deployment.
-
-
-
-- **[Tandoor Recipes (`TandoorRecipes/recipes`)](https://github.com)**  
-
-  Comprehensive open-source Django/Vue recipe and drink management system supporting dynamic serving scaling, pantry inventory tracking, and multi-user sharing.
-
-
-
-- **[OpenCocktailDB / Cocktail-API Datasets (`teijo/iba-cocktails` & `rasmusab/iba-cocktails`)](https://github.com)**  
-
-  Structured open-source JSON/YAML datasets of official International Bartenders Association (IBA) cocktails, measurements, glassware, and preparation steps.
-
-
-
-- **[BarStock / Open-Source Mixology Apps (`search?q=cocktail+recipe+manager+open+source`)](https://github.com)**  
-
-  Community-built open-source Flutter, React Native, and PWA cocktail trackers enabling offline ingredient matching and custom drink logging.
-
-
-
-- **[RecipeMD (`RecipeMD/RecipeMD`)](https://github.com)**  
-
-  Lightweight open-source Markdown-based specification and CLI/web tools for storing portable, Git-versioned cocktail and food recipes in plain text.
-
-
-
-- **[CookCLI (`cooklang/cookcli`)](https://github.com)**  
-
-  Open-source markup language (`Cooklang`) and local web server for plain-text recipe management with automatic ingredient scaling and shopping list generation.
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **[Paprika / OwnCloud Cookbook (`owncloud/cookbook`)](https://github.com)** for a Nextcloud-integrated open-source recipe and cocktail organizer compatible with `schema.org/Recipe` JSON-LD standards.
-
-- **[KitchenOwl (`TomBursch/kitchenowl`)](https://github.com)** for a self-hosted smart grocery list, pantry/bar inventory, and recipe companion app for iOS, Android, and Web.
-
-- **[Grocy (`grocy/grocy`)](https://github.com)** for full-featured self-hosted household and home-bar ERP tracking bottle stock, expiration dates, and ingredient consumption.
-
-- **[TheCocktailDB Open API](https://thecocktaildb.com)** for a free community-contributed JSON cocktail API widely used in open-source mixology apps and tutorials.
-
-- **[Open Food Facts (`openfoodfacts/openfoodfacts-server`)](https://github.com)** for open-source barcode scanning and nutritional/ingredient data on mixers, syrups, and beverages.
-
-
-
-**Frameworks for building custom systems**: Combine **Bar Assistant + Salt Rim** for a dedicated self-hosted home-bar and cocktail manager, **Mealie** or **Tandoor Recipes** for unified food and drink recipe libraries, and **RecipeMD** or **Cooklang** for plain-text Git-tracked cocktail books.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS/hosted or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Support & Share
-
-
-
-If you find this curated list helpful, consider supporting the project:
-
-
-
-- ⭐ **Star this repository** to help others discover it.
-
-- 🍴 **Fork & Share** it with your team, friends, or community on X/Twitter, LinkedIn, and Reddit.
-
-- ☕ **Buy me a coffee / Sponsor** my open-source work on [GitHub Sponsors](https://github.com) — featuring tiers for profile badges, README shoutouts, logo placements, and prioritized bug fixes/features!
-
-
-
-[![Sponsor @ishandutta2007](https://shields.io)](https://github.com)
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Cocktail and spirits apps are intended for adults of legal drinking age in their respective jurisdictions; please enjoy responsibly.
-
-- Self-hosted recipe and home-bar servers exposed outside your local network should use HTTPS/TLS and authentication.
-
-
+20. **[Libations](https://github.com/jnsgruk/libations)** [![Stars](https://img.shields.io/github/stars/jnsgruk/libations?style=social&color=white)](https://github.com/jnsgruk/libations/stargazers)  
+    Self-hosted, mobile-first cocktail recipe store and bar cabinet catalog built with modern web technologies for offline access on smartphones and tablets.
 
 ---
 
+## 🛠️ Architecture & System Frameworks
 
+* **Dedicated Self-Hosted Home Bar Stack**: Deploy **Bar Assistant** (backend API) alongside **Salt Rim** (Vue.js frontend) via Docker Compose for dedicated bottle tracking and recipe matching.
+* **Unified Culinary & Mixology Managers**: Run **Mealie** or **Tandoor Recipes** to manage both cooking recipes and craft cocktails in a single multi-user web app.
+* **Plain-Text Git-Versioned Books**: Standardize recipes using **Cooklang (`cookcli`)** or **RecipeMD** for Git-trackable, offline-first cocktail guides.
+* **Hardware Automation & IoT Dispensers**: Run **CocktailBerry** or **CocktailPi** on a Raspberry Pi connected to relay boards and peristaltic pumps for automated party drink pouring.
+* **Developer Datasets & Free APIs**: Leverage **TheCocktailDB** or **IBA Cocktails JSON** to power custom Flutter, React Native, or web mixology projects.
 
-**Made for home bartenders, mixology enthusiasts, culinary creators, self-hosters, and open-source contributors.**  
+---
 
-Let's make cocktail recipe management and home-bar software more open, creative, and enjoyable.
+## 🤝 How to Contribute
+
+Contributions are warmly welcomed! Help expand this ecosystem:
+
+1. 🍴 **Fork the repository**.
+2. 🌿 Create a feature branch: `git checkout -b feature/new-cocktail-platform`.
+3. 📝 Add your tool following the existing table or star-ranked list format.
+4. 🔍 Ensure descriptions are objective and link to official documentation or source code.
+5. 🚀 Submit a Pull Request with a brief summary of the project.
+
+---
+
+## 💖 Support & Share
+
+Thank you for exploring this curated cocktail and lifestyle software directory! If you find this guide valuable for your home bar, culinary adventures, or mixology development, here is how you can support the ecosystem:
+
+- ⭐ **Star this repository** to improve discoverability across GitHub.
+- 🍴 **Fork and share** the project with home bartenders, mixologists, and self-hosting groups on Discord, Reddit, and X/Twitter.
+- ☕ **Buy me a coffee & Sponsor my open-source work**: Support continuous maintenance and new open-source curated tools on the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+<p align="center">
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ff69b4?style=for-the-badge&logo=github-sponsors" alt="Sponsor on GitHub" />
+  </a>
+</p>
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Cocktail-Recipe-Management-Lifestyle-APPS&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Cocktail-Recipe-Management-Lifestyle-APPS&type=date&legend=top-left)
+
+---
+
+## ⚖️ Disclaimer
+
+- This repository is a **community-curated index** provided for informational and educational purposes only.
+- Cocktail, wine, and spirits applications are intended strictly for adults of legal drinking age in their respective regions. Please enjoy responsibly.
+- Self-hosted servers exposed to the public internet should implement strong authentication, reverse proxies, and TLS/HTTPS encryption.
+
+---
+
+<p align="center">
+  <b>Made with 🍸 and ❤️ for home bartenders, mixology enthusiasts, culinary creators, and open-source contributors worldwide.</b>
+</p>
